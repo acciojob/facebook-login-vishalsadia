@@ -46,7 +46,9 @@ input{
 
 .signup{
 	margin-top:12px;
+/* 	background-color: */
 	background-color:#42b72a;
+	color:rgb(24, 119, 242);
 	color:white;
 	
 }
