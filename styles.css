@@ -39,6 +39,7 @@ input{
 #login{
 	background-color:#1877f2;
 	color:white;
+	border:none;
 	border-radius:5px;
 	padding:10px 20px;
 	
@@ -48,6 +49,8 @@ input{
 	margin-top:12px;
 /* 	background-color: */
 	background-color:#42b72a;
+	border:none;
+	padding:10px 20px;
 	color:rgb(24, 119, 242);
 	color:white;
 	
