@@ -2,6 +2,11 @@
 	display:flex;
 	justify-content:center;
 }
+#both{
+	display:flex;
+	justify-content:center;
+	
+}
 body{
 	background-color:#f6f6f6;
 	display:flex;
@@ -30,16 +35,18 @@ input{
 	padding:10px 20px;
 	
 }
-a{
-	color:#1877f2;
-}
+
 #login{
-	background-color:blue;
+	background-color:#1877f2;
 	color:white;
+	border-radius:5px;
+	padding:10px 20px;
+	
 }
+
 .signup{
 	margin-top:12px;
-	background-color:green;
+	background-color:#42b72a;
 	color:white;
 	
 }
